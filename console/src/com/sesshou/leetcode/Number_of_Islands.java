@@ -8,14 +8,14 @@ package com.sesshou.leetcode;
 public class Number_of_Islands {
     public static void main(String[] args) {
         Number_of_Islands test=new Number_of_Islands();
-        char[][] grid=new char[][]{{'1','1','1','1','0'},{'1','1','0','1','0'},{'1','1','0','0','0'},{'0','0','0','0','0'}};
+        char[][] grid=new char[][]{{'1','1','0','0','0'},{'1','1','0','0','0'},{'0','0','1','0','0'},{'0','0','0','1','1'}};
         System.out.println(test.numIslands(grid));
     }
     public int numIslands(char[][] grid) {
         int num=0;
         for (int i = 0; i < grid.length; i++) {
             for (int j = 0; j < grid[0].length ; j++) {
-                if(grid[i][j]==0) continue;
+                if(grid[i][j]=='0') continue;
                 else{
                     num++;
                     setlandtowater(grid,i,j);
@@ -27,9 +27,9 @@ public class Number_of_Islands {
 
     private void setlandtowater(char[][] grid,int i,int j){
         if(i<0||j<0||i>=grid.length||j>=grid[0].length) return;
-        if(grid[i][j]==0) return;
+        if(grid[i][j]=='0') return;
         else{
-            grid[i][j]=0;
+            grid[i][j]='0';
             setlandtowater(grid,i-1,j);
             setlandtowater(grid,i+1,j);
             setlandtowater(grid,i,j-1);
