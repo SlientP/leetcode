@@ -1,4 +1,4 @@
-package com.sesshou.leetcode;
+package com.sesshou.leetcode.Array;
 
 import java.util.HashMap;
 

@@ -1,6 +1,4 @@
-package com.sesshou.leetcode;
-
-import sun.plugin2.message.GetAppletMessage;
+package com.sesshou.leetcode.Array;
 
 /**
  * @author wp41128
