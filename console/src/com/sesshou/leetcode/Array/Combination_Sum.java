@@ -1,8 +1,8 @@
 package com.sesshou.leetcode.Array;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
+import com.alibaba.fastjson.JSONObject;
+
+import java.util.*;
 
 /**
  * @author wp41128
@@ -11,11 +11,14 @@ import java.util.List;
  */
 public class Combination_Sum {
     public static void main(String[] args) {
-        Combination_Sum test=new Combination_Sum();
-        int[] nums=new int[]{8,7,4,3};
-        Arrays.sort(nums);
-        List<List<Integer>> result=test.combinationSum(nums,11);
-        System.out.println("123");
+        List<Integer> list=Arrays.asList(1,2,3);
+        Object[] array=list.toArray();
+        System.out.println(array.getClass().getSimpleName());
+//        Combination_Sum test=new Combination_Sum();
+//        int[] nums=new int[]{8,7,4,3};
+//        Arrays.sort(nums);
+//        List<List<Integer>> result=test.combinationSum(nums,11);
+//        System.out.println("123");
     }
 
     public List<List<Integer>> combinationSum(int[] candidates, int target) {

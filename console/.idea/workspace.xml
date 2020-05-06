@@ -1,20 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/com/sesshou/leetcode/Array/Combination_Sum.java" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="cdc94463-2111-4bea-b547-a0193501c3d1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/sesshou/leetcode/Array/Four_Sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sesshou/leetcode/Array/Median_of_Two_Sorted_Arrays.bmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sesshou/leetcode/Array/Median_of_Two_Sorted_Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sesshou/leetcode/Array/Remove_Duplicates_from_Sorted_Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sesshou/leetcode/Array/Three_Sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sesshou/leetcode/Array/Three_Sum_Closest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sesshou/leetcode/Merge_Sorted_Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sesshou/leetcode/Trapping_Rain_Water.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sesshou/leetcode/Array/First_Missing_Positive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sesshou/leetcode/Array/Max_Chunks_To_Make_Sorted.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sesshou/leetcode/Array/Trapping_Rain_Water.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sesshou/leetcode/Daily/Merge_Intervals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sesshou/leetcode/Stack/Valid_Parentheses.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sesshou/leetcode/Container_With_Most_Water.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sesshou/leetcode/Array/Container_With_Most_Water.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sesshou/leetcode/Two_Sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sesshou/leetcode/Array/Two_Sum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/console.iml" beforeDir="false" afterPath="$PROJECT_DIR$/console.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sesshou/leetcode/Array/Combination_Sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sesshou/leetcode/Array/Combination_Sum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sesshou/leetcode/Maximum_Subarray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sesshou/leetcode/Array/Maximum_Subarray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/sesshou/leetcode/Merge_Two_Sorted_Lists.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sesshou/leetcode/Merge_Two_Sorted_Lists.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/sesshou/leetcode/Two_Sum.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -43,19 +44,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/sesshou/leetcode/AddTwoNums.java">
+        <entry file="file://$PROJECT_DIR$/src/com/sesshou/leetcode/Array/Combination_Sum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/sesshou/leetcode/Array/Three_Sum.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-77">
-              <caret line="21" column="39" lean-forward="true" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
+            <state relative-caret-position="630">
+              <caret line="23" column="45" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="45" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -64,23 +56,23 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/sesshou/leetcode/Array/Four_Sum.java">
+        <entry file="file://$PROJECT_DIR$/src/com/sesshou/leetcode/Array/Max_Chunks_To_Make_Sorted.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1230">
-              <caret line="85" column="22" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="85" selection-end-column="22" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#495#510#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="1380">
+              <caret line="46" column="20" selection-start-line="46" selection-start-column="20" selection-end-line="46" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/sesshou/leetcode/Array/Remove_Duplicates_from_Sorted_Array.java">
+        <entry file="file://$PROJECT_DIR$/src/com/sesshou/leetcode/LRUCache.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="26" column="17" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="26" selection-end-column="17" />
+            <state relative-caret-position="718">
+              <caret line="141" lean-forward="true" selection-start-line="141" selection-end-line="141" />
+              <folding>
+                <element signature="method#LRUCache#0;class#LRUCache#0" />
+                <element signature="class#LRUCacheV2#0;class#LRUCache#0" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -129,7 +121,6 @@
         <option value="$PROJECT_DIR$/src/com/sesshou/model/ListNode.java" />
         <option value="$PROJECT_DIR$/src/com/sesshou/leetcode/Longest_Palindromic_Substring.java" />
         <option value="$PROJECT_DIR$/src/com/sesshou/leetcode/Merge_Two_Sorted_Lists.java" />
-        <option value="$PROJECT_DIR$/src/com/sesshou/leetcode/Maximum_Subarray.java" />
         <option value="$PROJECT_DIR$/src/interview/test.java" />
         <option value="$PROJECT_DIR$/src/interview/Test2.java" />
         <option value="$PROJECT_DIR$/src/com/sesshou/leetcode/Merge_Sorted_Array.java" />
@@ -138,6 +129,20 @@
         <option value="$PROJECT_DIR$/src/com/sesshou/leetcode/Array/Three_Sum.java" />
         <option value="$PROJECT_DIR$/src/com/sesshou/leetcode/Array/Four_Sum.java" />
         <option value="$PROJECT_DIR$/src/com/sesshou/leetcode/Array/Remove_Duplicates_from_Sorted_Array.java" />
+        <option value="$PROJECT_DIR$/src/com/sesshou/leetcode/Array/Remove_Element.java" />
+        <option value="$PROJECT_DIR$/src/com/sesshou/leetcode/Array/Next_Permutation.java" />
+        <option value="$PROJECT_DIR$/src/com/sesshou/leetcode/Array/Search_In_Rotated_Sorted_Array.java" />
+        <option value="$PROJECT_DIR$/src/com/sesshou/leetcode/Array/First_and_Last_Position_in_Sorted_Array.java" />
+        <option value="$PROJECT_DIR$/src/com/sesshou/leetcode/Array/Combination_Sum2.java" />
+        <option value="$PROJECT_DIR$/src/com/sesshou/leetcode/Array/First_Missing_Positive.java" />
+        <option value="$PROJECT_DIR$/src/com/sesshou/leetcode/Array/Trapping_Rain_Water.java" />
+        <option value="$PROJECT_DIR$/src/com/sesshou/leetcode/Maximum_Subarray.java" />
+        <option value="$PROJECT_DIR$/src/com/sesshou/leetcode/Array/Maximum_Subarray.java" />
+        <option value="$PROJECT_DIR$/src/com/sesshou/leetcode/Array/Combination_Sum.java" />
+        <option value="$PROJECT_DIR$/src/com/sesshou/leetcode/Array/Search_Insert_Position.java" />
+        <option value="$PROJECT_DIR$/src/com/sesshou/leetcode/Stack/Valid_Parentheses.java" />
+        <option value="$PROJECT_DIR$/src/com/sesshou/leetcode/Daily/Merge_Intervals.java" />
+        <option value="$PROJECT_DIR$/src/com/sesshou/leetcode/Array/Max_Chunks_To_Make_Sorted.java" />
       </list>
     </option>
   </component>
@@ -158,18 +163,17 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-7" />
-    <option name="y" value="1" />
-    <option name="width" value="1036" />
-    <option name="height" value="733" />
+    <option name="x" value="1352" />
+    <option name="width" value="576" />
+    <option name="height" value="408" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -203,19 +207,6 @@
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="Array" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="console" type="b2602c69:ProjectViewProjectNode" />
-              <item name="console" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="sesshou" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="console" type="b2602c69:ProjectViewProjectNode" />
-              <item name="console" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="interview" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -225,16 +216,22 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1585273493427" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1588764448722" />
     <property name="js.eslint.eslintPackage" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.29098362" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\MyConfiguration\wp41128\Desktop\study\java\Leetcode\leetcode\console\src\com\sesshou\leetcode\Array" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\文档\study\code\console" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.sesshou.leetcode.Stack" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\MyConfiguration\wp41128\Desktop\study\java\Leetcode\leetcode\console\src\com\sesshou\leetcode\Array" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -249,7 +246,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Remove_Duplicates_from_Sorted_Array">
+  <component name="RunManager" selected="Application.Max_Chunks_To_Make_Sorted">
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
       <module name="" />
       <option name="TESTING_TYPE" value="0" />
@@ -303,8 +300,8 @@
         <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" />
       </method>
     </configuration>
-    <configuration name="Four_Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sesshou.leetcode.Array.Four_Sum" />
+    <configuration name="Combination_Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sesshou.leetcode.Array.Combination_Sum" />
       <module name="console" />
       <extension name="coverage">
         <pattern>
@@ -316,8 +313,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Median_of_Two_Sorted_Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sesshou.leetcode.Array.Median_of_Two_Sorted_Arrays" />
+    <configuration name="Max_Chunks_To_Make_Sorted" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sesshou.leetcode.Array.Max_Chunks_To_Make_Sorted" />
       <module name="console" />
       <extension name="coverage">
         <pattern>
@@ -329,8 +326,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Remove_Duplicates_from_Sorted_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sesshou.leetcode.Array.Remove_Duplicates_from_Sorted_Array" />
+    <configuration name="Maximum_Subarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sesshou.leetcode.Array.Maximum_Subarray" />
       <module name="console" />
       <extension name="coverage">
         <pattern>
@@ -342,12 +339,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Three_Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sesshou.leetcode.Array.Three_Sum" />
+    <configuration name="Merge_Intervals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sesshou.leetcode.Daily.Merge_Intervals" />
       <module name="console" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sesshou.leetcode.Array.*" />
+          <option name="PATTERN" value="com.sesshou.leetcode.Daily.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -355,12 +352,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Three_Sum_Closest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sesshou.leetcode.Array.Three_Sum_Closest" />
+    <configuration name="Valid_Parentheses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sesshou.leetcode.Stack.Valid_Parentheses" />
       <module name="console" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sesshou.leetcode.Array.*" />
+          <option name="PATTERN" value="com.sesshou.leetcode.Stack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -463,19 +460,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.Median_of_Two_Sorted_Arrays" />
-      <item itemvalue="Application.Three_Sum" />
-      <item itemvalue="Application.Three_Sum_Closest" />
-      <item itemvalue="Application.Four_Sum" />
-      <item itemvalue="Application.Remove_Duplicates_from_Sorted_Array" />
+      <item itemvalue="Application.Combination_Sum" />
+      <item itemvalue="Application.Maximum_Subarray" />
+      <item itemvalue="Application.Valid_Parentheses" />
+      <item itemvalue="Application.Merge_Intervals" />
+      <item itemvalue="Application.Max_Chunks_To_Make_Sorted" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Remove_Duplicates_from_Sorted_Array" />
-        <item itemvalue="Application.Four_Sum" />
-        <item itemvalue="Application.Three_Sum_Closest" />
-        <item itemvalue="Application.Three_Sum" />
-        <item itemvalue="Application.Median_of_Two_Sorted_Arrays" />
+        <item itemvalue="Application.Max_Chunks_To_Make_Sorted" />
+        <item itemvalue="Application.Merge_Intervals" />
+        <item itemvalue="Application.Valid_Parentheses" />
+        <item itemvalue="Application.Combination_Sum" />
+        <item itemvalue="Application.Maximum_Subarray" />
       </list>
     </recent_temporary>
   </component>
@@ -506,18 +503,32 @@
       <workItem from="1584675495859" duration="2085000" />
       <workItem from="1584925569378" duration="19258000" />
       <workItem from="1585180518075" duration="7799000" />
-      <workItem from="1585266776740" duration="5936000" />
+      <workItem from="1585266776740" duration="16179000" />
+      <workItem from="1585292900716" duration="48405000" />
+      <workItem from="1586418672464" duration="3278000" />
+      <workItem from="1587024732203" duration="22373000" />
+      <workItem from="1587865417772" duration="1680000" />
+      <workItem from="1587873007058" duration="602000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="131879000" />
+    <option name="totallyTimeSpent" value="218460000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.32942432" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26599148" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -527,13 +538,13 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.30957684" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" weight="0.30957684" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.32850778" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32962137" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.18151447" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50053304" side_tool="true" weight="0.30957684" />
       <window_info anchor="bottom" id="Messages" order="9" weight="0.32850778" />
       <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
@@ -589,12 +600,6 @@
           <option name="timeStamp" value="26" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/sesshou/leetcode/Maximum_Subarray.java</url>
-          <line>17</line>
-          <properties />
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/interview/Test2.java</url>
           <line>96</line>
           <properties />
@@ -642,13 +647,104 @@
           <properties />
           <option name="timeStamp" value="55" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/sesshou/leetcode/Array/Remove_Element.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/sesshou/leetcode/Array/Next_Permutation.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/sesshou/leetcode/Array/Search_In_Rotated_Sorted_Array.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/sesshou/leetcode/Array/First_and_Last_Position_in_Sorted_Array.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/sesshou/leetcode/Array/Combination_Sum2.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="108" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/sesshou/leetcode/Array/Combination_Sum2.java</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="110" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/sesshou/leetcode/Array/Maximum_Subarray.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="119" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/sesshou/leetcode/Array/Combination_Sum.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="121" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files (x86)/Java/jdk1.8.0_73/src.zip!/java/util/ArrayList.java</url>
+          <line>375</line>
+          <properties />
+          <option name="timeStamp" value="122" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files (x86)/Java/jdk1.8.0_73/src.zip!/java/util/Arrays.java</url>
+          <line>3828</line>
+          <properties />
+          <option name="timeStamp" value="124" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files (x86)/Java/jdk1.8.0_73/src.zip!/java/util/Arrays.java</url>
+          <line>3822</line>
+          <properties />
+          <option name="timeStamp" value="125" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/sesshou/leetcode/Stack/Valid_Parentheses.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="127" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/sesshou/leetcode/Daily/Merge_Intervals.java</url>
+          <line>38</line>
+          <properties />
+          <option name="timeStamp" value="128" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/sesshou/leetcode/Daily/Merge_Intervals.java</url>
+          <line>42</line>
+          <properties />
+          <option name="timeStamp" value="130" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/sesshou/leetcode/Array/Max_Chunks_To_Make_Sorted.java</url>
+          <line>44</line>
+          <properties />
+          <option name="timeStamp" value="151" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/sesshou/leetcode/Array/Max_Chunks_To_Make_Sorted.java</url>
+          <line>39</line>
+          <properties />
+          <option name="timeStamp" value="153" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="Application">
-        <watch expression="nums" language="JAVA" />
-      </configuration>
-    </watches-manager>
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -689,93 +785,60 @@
     </expressions>
     <expressions id="watch">
       <expression>
-        <expression-string>nums</expression-string>
+        <expression-string>minMax[0][breakIndex]&gt;minMax[1][breakIndex]</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>nums2[j - 1]</expression-string>
+        <expression-string>minMax[0][breakIndex]==breakIndex</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>l1!=null</expression-string>
+        <expression-string>minMax[0][breakIndex]==breakIndex&amp;&amp;minMax[0][breakIndex]</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>l11</expression-string>
+        <expression-string>nums[i] &lt; nums[minIndex]</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>l1=l1==null?null:l1.next;</expression-string>
+        <expression-string>minMax[0][len-1]</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>l1==null</expression-string>
+        <expression-string>height[i]</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>res[i-1][j-v[i]]</expression-string>
+        <expression-string>res</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>res[i-1][j]</expression-string>
+        <expression-string>Math.min(max_left, max_right)</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>prices.get(i)+prices.get(attaches.get(i)-1)</expression-string>
+        <expression-string>nums[0] &gt; target</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>prioritis.get(i)*prices.get(i)+prioritis.get(attaches.get(i)-1)*prices.get(attaches.get(i)-1)</expression-string>
+        <expression-string>nums[0] == target</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/target/classes/com/sesshou/MyInvocationHandler.class" />
-    <entry file="file://$PROJECT_DIR$/src/com/sesshou/MyInvocationHandler.java" />
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_73/src.zip!/java/lang/reflect/InvocationHandler.java" />
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_73/src.zip!/java/lang/reflect/Proxy.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/sesshou/JdkProxyTest.java" />
-    <entry file="file://$PROJECT_DIR$/com/sun/proxy/$Proxy0.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1140">
-          <caret line="45" column="23" selection-start-line="45" selection-start-column="20" selection-end-line="45" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_73/src.zip!/java/lang/Integer.java" />
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_73/src.zip!/java/nio/ByteBuffer.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/sesshou/NIO/a.txt" />
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_73/jre/lib/ext/zipfs.jar!/com/sun/nio/zipfs/ZipFileSystem.class" />
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_73/src.zip!/java/nio/channels/FileChannel.java" />
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="40" column="16" selection-start-line="39" selection-start-column="16" selection-end-line="40" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_73/src.zip!/java/nio/Buffer.java" />
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_73/jre/lib/rt.jar!/sun/nio/ch/IOUtil.class" />
-    <entry file="file://$PROJECT_DIR$/src/com/sesshou/NIO/NIOTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/sesshou/UserServiceImpl.java" />
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_73/src.zip!/java/lang/StringBuffer.java" />
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_73/jre/lib/rt.jar!/sun/nio/ch/FileChannelImpl.class" />
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_73/src.zip!/java/util/Scanner.java" />
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_73/src.zip!/java/lang/String.java" />
     <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_73/src.zip!/java/util/stream/Stream.java" />
     <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_73/src.zip!/java/util/AbstractList.java" />
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_73/src.zip!/java/util/List.java" />
     <entry file="file://$PROJECT_DIR$/src/com/sesshou/UserService.java" />
     <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_73/src.zip!/java/util/HashMap.java" />
     <entry file="file://$PROJECT_DIR$/src/com/sesshou/Main.java" />
@@ -823,13 +886,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sesshou/leetcode/Maximum_Subarray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="24" column="43" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/interview/test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -868,13 +924,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_73/src.zip!/java/lang/System.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="492" column="30" selection-start-line="492" selection-start-column="30" selection-end-line="492" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/sesshou/leetcode/Merge_Sorted_Array.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="913">
@@ -886,13 +935,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sesshou/leetcode/Array/Two_Sum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -913,17 +955,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_73/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-168">
-          <caret line="163" column="11" selection-start-line="163" selection-start-column="11" selection-end-line="163" selection-end-column="11" />
-          <folding>
-            <element signature="e#6252#6253#0" expanded="true" />
-            <element signature="e#6320#6321#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/sesshou/leetcode/Array/Three_Sum_Closest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="295">
@@ -931,41 +962,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_73/src.zip!/java/util/Arrays.java">
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_73/src.zip!/java/lang/Integer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="3798" column="30" selection-start-line="3798" selection-start-column="30" selection-end-line="3798" selection-end-column="30" />
-          <folding>
-            <element signature="e#5027#5028#0" expanded="true" />
-            <element signature="e#5098#5099#0" expanded="true" />
-            <element signature="e#177013#177014#0" expanded="true" />
-            <element signature="e#177054#177055#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="192">
+          <caret line="51" column="19" selection-start-line="51" selection-start-column="19" selection-end-line="51" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/jshell/jshell_console.snippet">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sesshou/leetcode/AddTwoNums.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/sesshou/leetcode/Array/Four_Sum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1230">
-          <caret line="85" column="22" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="85" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#495#510#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sesshou/leetcode/AddTwoNums.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/sesshou/leetcode/Array/Three_Sum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-77">
-          <caret line="21" column="39" lean-forward="true" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
+        <state relative-caret-position="2550">
+          <caret line="85" column="22" selection-start-line="18" selection-start-column="7" selection-end-line="85" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -974,10 +991,305 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/sesshou/leetcode/Array/Remove_Duplicates_from_Sorted_Array.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="26" column="17" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="26" selection-end-column="17" />
+        <state relative-caret-position="780">
+          <caret line="26" column="17" selection-start-line="14" selection-start-column="8" selection-end-line="26" selection-end-column="17" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sesshou/leetcode/Array/Remove_Element.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sesshou/leetcode/Array/Next_Permutation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="31" column="13" lean-forward="true" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sesshou/leetcode/Array/Search_In_Rotated_Sorted_Array.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="514">
+          <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sesshou/leetcode/Array/First_and_Last_Position_in_Sorted_Array.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="32" column="44" selection-start-line="32" selection-start-column="44" selection-end-line="32" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_73/src.zip!/java/util/Collection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="206" column="13" selection-start-line="206" selection-start-column="13" selection-end-line="206" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sesshou/leetcode/Array/Combination_Sum2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="413">
+          <caret line="49" selection-start-line="39" selection-start-column="12" selection-end-line="45" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#698#713#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sesshou/leetcode/Array/Two_Sum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-78">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sesshou/leetcode/Array/First_Missing_Positive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="373">
+          <caret line="64" column="21" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="64" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sesshou/leetcode/Array/Maximum_Subarray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="48" column="9" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_73/src.zip!/java/lang/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="1306" selection-start-line="1306" selection-end-line="1306" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sesshou/leetcode/Array/Trapping_Rain_Water.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sesshou/leetcode/Array/Three_Sum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="870">
+          <caret line="31" column="31" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_73/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4380">
+          <caret line="169" column="13" selection-start-line="169" selection-start-column="13" selection-end-line="169" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_73/src.zip!/java/util/AbstractCollection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3540">
+          <caret line="143" column="5" selection-start-line="143" selection-start-column="5" selection-end-line="143" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_73/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4470">
+          <caret line="176" selection-start-line="176" selection-end-line="176" />
+          <folding>
+            <element signature="e#6252#6253#0" expanded="true" />
+            <element signature="e#6320#6321#0" expanded="true" />
+            <element signature="e#13541#13542#0" expanded="true" />
+            <element signature="e#13596#13597#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sesshou/leetcode/Array/Search_Insert_Position.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="498">
+          <caret line="27" column="53" selection-start-line="27" selection-start-column="53" selection-end-line="27" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_73/src.zip!/java/util/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="111" column="19" selection-start-line="111" selection-start-column="19" selection-end-line="111" selection-end-column="19" />
+          <folding>
+            <element signature="e#2838#2839#0" expanded="true" />
+            <element signature="e#2872#2873#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sesshou/leetcode/Stack/Valid_Parentheses.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="18" column="32" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="18" selection-end-column="32" />
+          <folding>
+            <element signature="e#317#328#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_73/src.zip!/java/lang/StringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="88" selection-start-line="88" selection-end-line="88" />
+          <folding>
+            <element signature="e#2896#2897#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_73/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="3285" column="63" lean-forward="true" selection-start-line="3284" selection-start-column="7" selection-end-line="3285" selection-end-column="63" />
+          <folding>
+            <element signature="e#5027#5028#0" expanded="true" />
+            <element signature="e#5098#5099#0" expanded="true" />
+            <element signature="e#177013#177014#0" expanded="true" />
+            <element signature="e#177054#177055#0" expanded="true" />
+            <element signature="e#177551#177552#0" expanded="true" />
+            <element signature="e#177591#177592#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_73/src.zip!/java/lang/System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="492" column="30" selection-start-line="492" selection-start-column="30" selection-end-line="492" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sesshou/leetcode/Daily/Merge_Intervals.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="15" column="44" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#510#519#0" expanded="true" />
+            <element signature="method#getMax#0;class#Merge_Intervals#0" />
+            <element signature="method#fillArray#0;class#Merge_Intervals#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sesshou/leetcode/Array/Combination_Sum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="23" column="45" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sesshou/leetcode/Array/Max_Chunks_To_Make_Sorted.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1380">
+          <caret line="46" column="20" selection-start-line="46" selection-start-column="20" selection-end-line="46" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sesshou/leetcode/LRUCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="718">
+          <caret line="141" lean-forward="true" selection-start-line="141" selection-end-line="141" />
+          <folding>
+            <element signature="method#LRUCache#0;class#LRUCache#0" />
+            <element signature="class#LRUCacheV2#0;class#LRUCache#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.29098362" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.29098362" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>console</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: net.sourceforge.jtds:jtds:1.3.1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
