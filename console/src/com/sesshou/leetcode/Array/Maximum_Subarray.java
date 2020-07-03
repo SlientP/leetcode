@@ -1,4 +1,4 @@
-package com.sesshou.leetcode;
+package com.sesshou.leetcode.Array;
 
 /**
  * Created by Administrator on 2020/3/15 0015.
@@ -6,8 +6,8 @@ package com.sesshou.leetcode;
 public class Maximum_Subarray {
     public static void main(String[] args) {
         Maximum_Subarray test=new Maximum_Subarray();
-        int[] nums=new int[]{-2,-1};
-        test.bothSize(nums,0,nums.length-1);
+        int[] nums=new int[]{-2,1,-3,4,-1,2,1,-5,4};
+        test.mymaxSubArray(nums);
     }
 
     //分治
