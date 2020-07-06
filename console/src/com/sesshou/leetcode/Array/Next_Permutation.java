@@ -7,9 +7,12 @@ package com.sesshou.leetcode.Array;
  */
 public class Next_Permutation {
     public static void main(String[] args) {
-        int[] nums = new int[]{2,3,1};
+        int[] nums = new int[]{9,8,7,6,5,4,3,2,1};
         nextPermutation(nums);
-        System.out.println(nums);
+        for (int i = 0; i < nums.length; i++) {
+            System.out.print(nums[i]);
+        }
+
     }
 
     public static void nextPermutation(int[] nums) {

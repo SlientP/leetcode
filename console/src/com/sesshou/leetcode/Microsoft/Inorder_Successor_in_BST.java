@@ -21,7 +21,7 @@ public class Inorder_Successor_in_BST {
         t6.left=t5;
         t6.right=t7;
         Inorder_Successor_in_BST test=new Inorder_Successor_in_BST();
-        test.inorderSuccessor(t1,t2);
+        System.out.println(test.inorderSuccessor(t4,t2).val);
     }
     public TreeNode inorderSuccessor(TreeNode root, TreeNode p) {
         if(p==null||root==null){
@@ -32,7 +32,7 @@ public class Inorder_Successor_in_BST {
         }
         //root>p
         TreeNode res1=inorderSuccessor(root.left,p);
-        if(res1!=null&&res1.val<root.val){
+        if(res1!=null){
             return res1;
         }else{
             return root;
