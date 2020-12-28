@@ -1,0 +1,138 @@
+INSERT INTO ScheduleProperties ([ID], [Schedule], [Pattern], [Name], [Value], [Priority], [Cancelable])
+VALUES (3300961,3300,0,'Datacenter',Official_E15_Windows2019_Core_ZeroBox_Immersive,2000,0);
+INSERT INTO ScheduleProperties ([ID], [Schedule], [Pattern], [Name], [Value], [Priority], [Cancelable])
+VALUES (3301070,3300,0,'BasicWorkgroup',Official_E15_Windows2019_Core_BasicWorkgroup_C3_P2,202000,0);
+INSERT INTO ScheduleProperties ([ID], [Schedule], [Pattern], [Name], [Value], [Priority], [Cancelable])
+VALUES (3301071,3300,0,'BasicWorkgroup',Official_E15_Windows2019_Core_BasicWorkgroup_CollaborativeInbox_P2,202000,0);
+INSERT INTO ScheduleProperties ([ID], [Schedule], [Pattern], [Name], [Value], [Priority], [Cancelable])
+VALUES (3301073,3300,0,'BasicWorkgroup',Official_E15_Windows2019_Core_BasicWorkgroup_Datacenter_P2,202000,0);
+INSERT INTO ScheduleProperties ([ID], [Schedule], [Pattern], [Name], [Value], [Priority], [Cancelable])
+VALUES (3301074,3300,0,'BasicWorkgroup',Official_E15_Windows2019_Core_BasicWorkgroup_EngineeringFundamentals_P2,202000,0);
+INSERT INTO ScheduleProperties ([ID], [Schedule], [Pattern], [Name], [Value], [Priority], [Cancelable])
+VALUES (3301075,3300,0,'BasicWorkgroup',Official_E15_Windows2019_Core_BasicWorkgroup_FFOTIP_P2,202000,0);
+INSERT INTO ScheduleProperties ([ID], [Schedule], [Pattern], [Name], [Value], [Priority], [Cancelable])
+VALUES (3301076,3300,0,'BasicWorkgroup',Official_E15_Windows2019_Core_BasicWorkgroup_MailboxIntelligence_P2,202000,0);
+INSERT INTO ScheduleProperties ([ID], [Schedule], [Pattern], [Name], [Value], [Priority], [Cancelable])
+VALUES (3301077,3300,0,'BasicWorkgroup',Official_E15_Windows2019_Core_BasicWorkgroup_Manageability_P2,202000,0);
+INSERT INTO ScheduleProperties ([ID], [Schedule], [Pattern], [Name], [Value], [Priority], [Cancelable])
+VALUES (3301078,3300,0,'BasicWorkgroup',Official_E15_Windows2019_Core_BasicWorkgroup_Mobility_P2,202000,0);
+INSERT INTO ScheduleProperties ([ID], [Schedule], [Pattern], [Name], [Value], [Priority], [Cancelable])
+VALUES (3301079,3300,0,'BasicWorkgroup',Official_E15_Windows2019_Core_BasicWorkgroup_PeopleAndTime_P2,202000,0);
+INSERT INTO ScheduleProperties ([ID], [Schedule], [Pattern], [Name], [Value], [Priority], [Cancelable])
+VALUES (7020581,7020,0,'TestPass',Official_E15_Windows2019_Core_BasicDomain_C3_P2_0,Official_E15_Windows2019_Core_BasicDomain_C3_P2_1,Official_E15_Windows2019_Core_BasicDomain_C3_P2_2,Official_E15_Windows2019_Core_BasicDomain_C3_P2_3,200000,1);
+INSERT INTO ScheduleProperties ([ID], [Schedule], [Pattern], [Name], [Value], [Priority], [Cancelable])
+VALUES (7020582,7020,0,'TestPass',Official_E15_Windows2019_Core_BasicDomain_CollaborativeInbox_P2,200000,1);
+INSERT INTO ScheduleProperties ([ID], [Schedule], [Pattern], [Name], [Value], [Priority], [Cancelable])
+VALUES (7020583,7020,0,'TestPass',Official_E15_Windows2019_Core_BasicDomain_Datacenter_P2,200000,1);
+INSERT INTO ScheduleProperties ([ID], [Schedule], [Pattern], [Name], [Value], [Priority], [Cancelable])
+VALUES (7020585,7020,0,'TestPass',Official_E15_Windows2019_Core_BasicDomain_FFOTIP_P2_0,Official_E15_Windows2019_Core_BasicDomain_FFOTIP_P2_1,Official_E15_Windows2019_Core_BasicDomain_FFOTIP_P2_2,Official_E15_Windows2019_Core_BasicDomain_FFOTIP_P2_3,200000,1);
+INSERT INTO ScheduleProperties ([ID], [Schedule], [Pattern], [Name], [Value], [Priority], [Cancelable])
+VALUES (7020586,7020,0,'TestPass',Official_E15_Windows2019_Core_BasicDomain_MailboxIntelligence_P2,200000,1);
+INSERT INTO ScheduleProperties ([ID], [Schedule], [Pattern], [Name], [Value], [Priority], [Cancelable])
+VALUES (7020587,7020,0,'TestPass',Official_E15_Windows2019_Core_BasicDomain_Manageability_P2_0,Official_E15_Windows2019_Core_BasicDomain_Manageability_P2_1,200000,1);
+INSERT INTO ScheduleProperties ([ID], [Schedule], [Pattern], [Name], [Value], [Priority], [Cancelable])
+VALUES (7020588,7020,0,'TestPass',Official_E15_Windows2019_Core_BasicDomain_Mobility_P2_0,Official_E15_Windows2019_Core_BasicDomain_Mobility_P2_1,Official_E15_Windows2019_Core_BasicDomain_Mobility_P2_2,200000,1);
+INSERT INTO ScheduleProperties ([ID], [Schedule], [Pattern], [Name], [Value], [Priority], [Cancelable])
+VALUES (7020589,7020,0,'TestPass',Official_E15_Windows2019_Core_BasicDomain_PeopleAndTime_P2_0,Official_E15_Windows2019_Core_BasicDomain_PeopleAndTime_P2_1,Official_E15_Windows2019_Core_BasicDomain_PeopleAndTime_P2_2,200000,1);
+INSERT INTO ScheduleProperties ([ID], [Schedule], [Pattern], [Name], [Value], [Priority], [Cancelable])
+VALUES (7020641,7020,0,'TestPass',Official_E15_Windows2019_Core_BasicWorkgroup_C3_P2,200000,1);
+INSERT INTO ScheduleProperties ([ID], [Schedule], [Pattern], [Name], [Value], [Priority], [Cancelable])
+VALUES (7020642,7020,0,'TestPass',Official_E15_Windows2019_Core_BasicWorkgroup_CollaborativeInbox_P2,200000,1);
+INSERT INTO ScheduleProperties ([ID], [Schedule], [Pattern], [Name], [Value], [Priority], [Cancelable])
+VALUES (7020643,7020,0,'TestPass',Official_E15_Windows2019_Core_BasicWorkgroup_Datacenter_P2,200000,1);
+INSERT INTO ScheduleProperties ([ID], [Schedule], [Pattern], [Name], [Value], [Priority], [Cancelable])
+VALUES (7020644,7020,0,'TestPass',Official_E15_Windows2019_Core_BasicWorkgroup_EngineeringFundamentals_P2,200000,1);
+INSERT INTO ScheduleProperties ([ID], [Schedule], [Pattern], [Name], [Value], [Priority], [Cancelable])
+VALUES (7020645,7020,0,'TestPass',Official_E15_Windows2019_Core_BasicWorkgroup_FFOTIP_P2,200000,1);
+INSERT INTO ScheduleProperties ([ID], [Schedule], [Pattern], [Name], [Value], [Priority], [Cancelable])
+VALUES (7020646,7020,0,'TestPass',Official_E15_Windows2019_Core_BasicWorkgroup_MailboxIntelligence_P2,200000,1);
+INSERT INTO ScheduleProperties ([ID], [Schedule], [Pattern], [Name], [Value], [Priority], [Cancelable])
+VALUES (7020647,7020,0,'TestPass',Official_E15_Windows2019_Core_BasicWorkgroup_Manageability_P2,200000,1);
+INSERT INTO ScheduleProperties ([ID], [Schedule], [Pattern], [Name], [Value], [Priority], [Cancelable])
+VALUES (7020648,7020,0,'TestPass',Official_E15_Windows2019_Core_BasicWorkgroup_Mobility_P2,200000,1);
+INSERT INTO ScheduleProperties ([ID], [Schedule], [Pattern], [Name], [Value], [Priority], [Cancelable])
+VALUES (7020649,7020,0,'TestPass',Official_E15_Windows2019_Core_BasicWorkgroup_PeopleAndTime_P2,200000,1);
+INSERT INTO ScheduleProperties ([ID], [Schedule], [Pattern], [Name], [Value], [Priority], [Cancelable])
+VALUES (7020708,7020,0,'TestPass',Official_E15_Windows2019_Core_HighAvailability_Mini_P2,200000,1);
+INSERT INTO ScheduleProperties ([ID], [Schedule], [Pattern], [Name], [Value], [Priority], [Cancelable])
+VALUES (7020718,7020,0,'TestPass',Official_E15_Windows2019_Core_ZeroBox_Immersive,1000,0);
+INSERT INTO ScheduleProperties ([ID], [Schedule], [Pattern], [Name], [Value], [Priority], [Cancelable])
+VALUES (7021581,7021,0,'TestPass',Official_E15_Windows2019_Core_BasicDomain_C3_P2_0,Official_E15_Windows2019_Core_BasicDomain_C3_P2_1,Official_E15_Windows2019_Core_BasicDomain_C3_P2_2,Official_E15_Windows2019_Core_BasicDomain_C3_P2_3,200000,1);
+INSERT INTO ScheduleProperties ([ID], [Schedule], [Pattern], [Name], [Value], [Priority], [Cancelable])
+VALUES (7021582,7021,0,'TestPass',Official_E15_Windows2019_Core_BasicDomain_CollaborativeInbox_P2,200000,1);
+INSERT INTO ScheduleProperties ([ID], [Schedule], [Pattern], [Name], [Value], [Priority], [Cancelable])
+VALUES (7021583,7021,0,'TestPass',Official_E15_Windows2019_Core_BasicDomain_Datacenter_P2,200000,1);
+INSERT INTO ScheduleProperties ([ID], [Schedule], [Pattern], [Name], [Value], [Priority], [Cancelable])
+VALUES (7021584,7021,0,'TestPass',Official_E15_Windows2019_Core_BasicDomain_EngineeringFundamentals_P2,200000,1);
+INSERT INTO ScheduleProperties ([ID], [Schedule], [Pattern], [Name], [Value], [Priority], [Cancelable])
+VALUES (7021585,7021,0,'TestPass',Official_E15_Windows2019_Core_BasicDomain_FFOTIP_P2_0,Official_E15_Windows2019_Core_BasicDomain_FFOTIP_P2_1,Official_E15_Windows2019_Core_BasicDomain_FFOTIP_P2_2,Official_E15_Windows2019_Core_BasicDomain_FFOTIP_P2_3,200000,1);
+INSERT INTO ScheduleProperties ([ID], [Schedule], [Pattern], [Name], [Value], [Priority], [Cancelable])
+VALUES (7021586,7021,0,'TestPass',Official_E15_Windows2019_Core_BasicDomain_MailboxIntelligence_P2,200000,1);
+INSERT INTO ScheduleProperties ([ID], [Schedule], [Pattern], [Name], [Value], [Priority], [Cancelable])
+VALUES (7021587,7021,0,'TestPass',Official_E15_Windows2019_Core_BasicDomain_Manageability_P2_0,Official_E15_Windows2019_Core_BasicDomain_Manageability_P2_1,200000,1);
+INSERT INTO ScheduleProperties ([ID], [Schedule], [Pattern], [Name], [Value], [Priority], [Cancelable])
+VALUES (7021588,7021,0,'TestPass',Official_E15_Windows2019_Core_BasicDomain_Mobility_P2_0,Official_E15_Windows2019_Core_BasicDomain_Mobility_P2_1,Official_E15_Windows2019_Core_BasicDomain_Mobility_P2_2,200000,1);
+INSERT INTO ScheduleProperties ([ID], [Schedule], [Pattern], [Name], [Value], [Priority], [Cancelable])
+VALUES (7021589,7021,0,'TestPass',Official_E15_Windows2019_Core_BasicDomain_PeopleAndTime_P2_0,Official_E15_Windows2019_Core_BasicDomain_PeopleAndTime_P2_1,Official_E15_Windows2019_Core_BasicDomain_PeopleAndTime_P2_2,200000,1);
+INSERT INTO ScheduleProperties ([ID], [Schedule], [Pattern], [Name], [Value], [Priority], [Cancelable])
+VALUES (7021641,7021,0,'TestPass',Official_E15_Windows2019_Core_BasicWorkgroup_C3_P2,200000,1);
+INSERT INTO ScheduleProperties ([ID], [Schedule], [Pattern], [Name], [Value], [Priority], [Cancelable])
+VALUES (7021642,7021,0,'TestPass',Official_E15_Windows2019_Core_BasicWorkgroup_CollaborativeInbox_P2,200000,1);
+INSERT INTO ScheduleProperties ([ID], [Schedule], [Pattern], [Name], [Value], [Priority], [Cancelable])
+VALUES (7021643,7021,0,'TestPass',Official_E15_Windows2019_Core_BasicWorkgroup_Datacenter_P2,200000,1);
+INSERT INTO ScheduleProperties ([ID], [Schedule], [Pattern], [Name], [Value], [Priority], [Cancelable])
+VALUES (7021644,7021,0,'TestPass',Official_E15_Windows2019_Core_BasicWorkgroup_EngineeringFundamentals_P2,200000,1);
+INSERT INTO ScheduleProperties ([ID], [Schedule], [Pattern], [Name], [Value], [Priority], [Cancelable])
+VALUES (7021645,7021,0,'TestPass',Official_E15_Windows2019_Core_BasicWorkgroup_FFOTIP_P2,200000,1);
+INSERT INTO ScheduleProperties ([ID], [Schedule], [Pattern], [Name], [Value], [Priority], [Cancelable])
+VALUES (7021646,7021,0,'TestPass',Official_E15_Windows2019_Core_BasicWorkgroup_MailboxIntelligence_P2,200000,1);
+INSERT INTO ScheduleProperties ([ID], [Schedule], [Pattern], [Name], [Value], [Priority], [Cancelable])
+VALUES (7021647,7021,0,'TestPass',Official_E15_Windows2019_Core_BasicWorkgroup_Manageability_P2,200000,1);
+INSERT INTO ScheduleProperties ([ID], [Schedule], [Pattern], [Name], [Value], [Priority], [Cancelable])
+VALUES (7021648,7021,0,'TestPass',Official_E15_Windows2019_Core_BasicWorkgroup_Mobility_P2,200000,1);
+INSERT INTO ScheduleProperties ([ID], [Schedule], [Pattern], [Name], [Value], [Priority], [Cancelable])
+VALUES (7021649,7021,0,'TestPass',Official_E15_Windows2019_Core_BasicWorkgroup_PeopleAndTime_P2,200000,1);
+INSERT INTO ScheduleProperties ([ID], [Schedule], [Pattern], [Name], [Value], [Priority], [Cancelable])
+VALUES (7021708,7021,0,'TestPass',Official_E15_Windows2019_Core_HighAvailability_Mini_P2,200000,1);
+INSERT INTO ScheduleProperties ([ID], [Schedule], [Pattern], [Name], [Value], [Priority], [Cancelable])
+VALUES (7021718,7021,0,'TestPass',Official_E15_Windows2019_Core_ZeroBox_Immersive,1000,0);
+INSERT INTO ScheduleProperties ([ID], [Schedule], [Pattern], [Name], [Value], [Priority], [Cancelable])
+VALUES (7040581,7040,0,'TestPass',Official_E15_Windows2019_Core_BasicDomain_C3_P2_0,Official_E15_Windows2019_Core_BasicDomain_C3_P2_1,Official_E15_Windows2019_Core_BasicDomain_C3_P2_2,Official_E15_Windows2019_Core_BasicDomain_C3_P2_3,200000,1);
+INSERT INTO ScheduleProperties ([ID], [Schedule], [Pattern], [Name], [Value], [Priority], [Cancelable])
+VALUES (7040582,7040,0,'TestPass',Official_E15_Windows2019_Core_BasicDomain_CollaborativeInbox_P2,200000,1);
+INSERT INTO ScheduleProperties ([ID], [Schedule], [Pattern], [Name], [Value], [Priority], [Cancelable])
+VALUES (7040583,7040,0,'TestPass',Official_E15_Windows2019_Core_BasicDomain_Datacenter_P2,200000,1);
+INSERT INTO ScheduleProperties ([ID], [Schedule], [Pattern], [Name], [Value], [Priority], [Cancelable])
+VALUES (7040584,7040,0,'TestPass',Official_E15_Windows2019_Core_BasicDomain_EngineeringFundamentals_P2,200000,1);
+INSERT INTO ScheduleProperties ([ID], [Schedule], [Pattern], [Name], [Value], [Priority], [Cancelable])
+VALUES (7040585,7040,0,'TestPass',Official_E15_Windows2019_Core_BasicDomain_FFOTIP_P2_0,Official_E15_Windows2019_Core_BasicDomain_FFOTIP_P2_1,Official_E15_Windows2019_Core_BasicDomain_FFOTIP_P2_2,Official_E15_Windows2019_Core_BasicDomain_FFOTIP_P2_3,200000,1);
+INSERT INTO ScheduleProperties ([ID], [Schedule], [Pattern], [Name], [Value], [Priority], [Cancelable])
+VALUES (7040586,7040,0,'TestPass',Official_E15_Windows2019_Core_BasicDomain_MailboxIntelligence_P2,200000,1);
+INSERT INTO ScheduleProperties ([ID], [Schedule], [Pattern], [Name], [Value], [Priority], [Cancelable])
+VALUES (7040587,7040,0,'TestPass',Official_E15_Windows2019_Core_BasicDomain_Manageability_P2_0,Official_E15_Windows2019_Core_BasicDomain_Manageability_P2_1,200000,1);
+INSERT INTO ScheduleProperties ([ID], [Schedule], [Pattern], [Name], [Value], [Priority], [Cancelable])
+VALUES (7040588,7040,0,'TestPass',Official_E15_Windows2019_Core_BasicDomain_Mobility_P2_0,Official_E15_Windows2019_Core_BasicDomain_Mobility_P2_1,Official_E15_Windows2019_Core_BasicDomain_Mobility_P2_2,200000,1);
+INSERT INTO ScheduleProperties ([ID], [Schedule], [Pattern], [Name], [Value], [Priority], [Cancelable])
+VALUES (7040589,7040,0,'TestPass',Official_E15_Windows2019_Core_BasicDomain_PeopleAndTime_P2_0,Official_E15_Windows2019_Core_BasicDomain_PeopleAndTime_P2_1,Official_E15_Windows2019_Core_BasicDomain_PeopleAndTime_P2_2,200000,1);
+INSERT INTO ScheduleProperties ([ID], [Schedule], [Pattern], [Name], [Value], [Priority], [Cancelable])
+VALUES (7040641,7040,0,'TestPass',Official_E15_Windows2019_Core_BasicWorkgroup_C3_P2,200000,1);
+INSERT INTO ScheduleProperties ([ID], [Schedule], [Pattern], [Name], [Value], [Priority], [Cancelable])
+VALUES (7040642,7040,0,'TestPass',Official_E15_Windows2019_Core_BasicWorkgroup_CollaborativeInbox_P2,200000,1);
+INSERT INTO ScheduleProperties ([ID], [Schedule], [Pattern], [Name], [Value], [Priority], [Cancelable])
+VALUES (7040643,7040,0,'TestPass',Official_E15_Windows2019_Core_BasicWorkgroup_Datacenter_P2,200000,1);
+INSERT INTO ScheduleProperties ([ID], [Schedule], [Pattern], [Name], [Value], [Priority], [Cancelable])
+VALUES (7040644,7040,0,'TestPass',Official_E15_Windows2019_Core_BasicWorkgroup_EngineeringFundamentals_P2,200000,1);
+INSERT INTO ScheduleProperties ([ID], [Schedule], [Pattern], [Name], [Value], [Priority], [Cancelable])
+VALUES (7040645,7040,0,'TestPass',Official_E15_Windows2019_Core_BasicWorkgroup_FFOTIP_P2,200000,1);
+INSERT INTO ScheduleProperties ([ID], [Schedule], [Pattern], [Name], [Value], [Priority], [Cancelable])
+VALUES (7040646,7040,0,'TestPass',Official_E15_Windows2019_Core_BasicWorkgroup_MailboxIntelligence_P2,200000,1);
+INSERT INTO ScheduleProperties ([ID], [Schedule], [Pattern], [Name], [Value], [Priority], [Cancelable])
+VALUES (7040647,7040,0,'TestPass',Official_E15_Windows2019_Core_BasicWorkgroup_Manageability_P2,200000,1);
+INSERT INTO ScheduleProperties ([ID], [Schedule], [Pattern], [Name], [Value], [Priority], [Cancelable])
+VALUES (7040648,7040,0,'TestPass',Official_E15_Windows2019_Core_BasicWorkgroup_Mobility_P2,200000,1);
+INSERT INTO ScheduleProperties ([ID], [Schedule], [Pattern], [Name], [Value], [Priority], [Cancelable])
+VALUES (7040649,7040,0,'TestPass',Official_E15_Windows2019_Core_BasicWorkgroup_PeopleAndTime_P2,200000,1);
+INSERT INTO ScheduleProperties ([ID], [Schedule], [Pattern], [Name], [Value], [Priority], [Cancelable])
+VALUES (7040708,7040,0,'TestPass',Official_E15_Windows2019_Core_HighAvailability_Mini_P2,200000,1);
+INSERT INTO ScheduleProperties ([ID], [Schedule], [Pattern], [Name], [Value], [Priority], [Cancelable])
+VALUES (7040718,7040,0,'TestPass',Official_E15_Windows2019_Core_ZeroBox_Immersive,1000,0);
