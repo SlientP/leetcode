@@ -1,10 +1,19 @@
 package com.newStart2;
 
 
+import java.util.Stack;
+
 public class Q226 {
     public TreeNode invertTree(TreeNode root) {
-        
+        if(root==null) return root;
+        TreeNode temp=root.left;
+        root.left=root.right;
+        root.right=temp;
+        invertTree(root.left);
+        invertTree(root.right);
+        return root;
     }
+
 
 
     public class TreeNode {
