@@ -12,7 +12,7 @@ public class Q200 {
                     count++;
                     BFS(grid,i-1,j,m,n);
                     BFS(grid,i,j-1,m,n);
-                    BFS(grid,i+1,j-1,m,n);
+                    BFS(grid,i+1,j,m,n);
                     BFS(grid,i,j+1,m,n);
                 }
             }
@@ -25,7 +25,7 @@ public class Q200 {
                 grid[i][j]='0';
                 BFS(grid,i-1,j,m,n);
                 BFS(grid,i,j-1,m,n);
-                BFS(grid,i+1,j-1,m,n);
+                BFS(grid,i+1,j,m,n);
                 BFS(grid,i,j+1,m,n);
             }
         }

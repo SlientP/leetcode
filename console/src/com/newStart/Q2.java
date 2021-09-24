@@ -31,6 +31,28 @@ public class Q2 {
         if(carry>0) head.next=new ListNode(1);//3
         return result.next;
     }
+
+    public ListNode V2addTwoNumbers(ListNode l1,ListNode l2){
+        ListNode head=new ListNode(0);
+        ListNode res=head;
+        if(l1==null) return l2;
+        if(l2==null) return l1;
+        int carry=0;
+        while (l1!=null||l2!=null){
+            int x=l1==null?0:l1.val;
+            int y=l2==null?0:l2.val;
+            int sum=x+y+carry;
+            head.next = new ListNode(sum % 10);
+            head=head.next;
+            if(sum>=10) carry=1;
+            else carry=0;
+            l1=l1==null?null:l1.next;
+            l2=l2==null?null:l2.next;
+        }
+        if(carry>0) head.next=new ListNode(1);
+        return res.next;
+    }
+
     public static class ListNode {
         int val;
         ListNode next;

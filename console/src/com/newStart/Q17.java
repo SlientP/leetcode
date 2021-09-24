@@ -25,11 +25,34 @@ public class Q17 {
                         result.add(vals[j]);
                     }
                 }else{
-                    
+                    List<String> temp=new ArrayList<>();
+                    for (int j = 0; j < result.size(); j++) {
+                        temp.add(result.get(j)+vals[j]);
+                    }
+                    result=temp;
                 }
 
             }
         }
         return result;
+    }
+    public List<String> letterCombinationsV2(String digits) {
+        int len = digits.length();
+        List<String> result = new ArrayList<String>();
+        if (len == 0) return result;
+        backtrack(result,0,new StringBuilder(""),digits);
+        return result;
+    }
+    public void backtrack(List<String> result,int index,StringBuilder sb,String digits){
+        if(sb.length()==digits.length()){
+            result.add(sb.toString());
+        }else {
+            String[] maps = dic.get(digits.charAt(index)).split(",");
+            for (int i = 0; i < maps.length; i++) {
+                sb.append(maps[i]);
+                backtrack(result, index + 1, sb, digits);
+                sb.deleteCharAt(index);
+            }
+        }
     }
 }

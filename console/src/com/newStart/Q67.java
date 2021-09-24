@@ -2,9 +2,11 @@ package com.newStart;
 
 public class Q67 {
     public static void main(String[] args) {
-        String a="11";
+        String a="111";
         String b="1";
-        System.out.println();
+        Q67 test=new Q67();
+
+        System.out.println(test.addBinary(a,b));
     }
     public String addBinary(String a, String b) {
         StringBuffer ans = new StringBuffer();
@@ -24,4 +26,6 @@ public class Q67 {
 
         return ans.toString();
     }
+
+
 }

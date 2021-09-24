@@ -2,6 +2,7 @@ package com.newStart;
 
 import java.lang.reflect.Array;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.HashMap;
 import java.util.List;
 
@@ -15,7 +16,7 @@ public class Q90 {
     public List<List<Integer>> subsetsWithDup(int[] nums) {
         List<List<Integer>> res=new ArrayList<>();
         List<Integer> output=new ArrayList<>();
-        List<String> maps=new ArrayList<>();
+        Arrays.sort(nums);
         backforward(output,0,nums,res);
         return res;
     }

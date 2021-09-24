@@ -8,7 +8,7 @@ public class Q75 {
         //1,2,0
         //2,1,2
         int[] nums=new int[]{2,0,2,1,1,0};
-        test.sortColors(nums);
+        test.sortColorsV2(nums);
         for (int i = 0; i < nums.length; i++) {
             System.out.println(nums[i]);
         }
@@ -37,5 +37,23 @@ public class Q75 {
         int temp=nums[i];
         nums[i]=nums[j];
         nums[j]=temp;
+    }
+
+    public void sortColorsV2(int[] nums){
+        int len=nums.length;
+        if(len<=1) return;
+        int insert_0=0;
+        int insert_2=len-1;
+        for (int i = 0; i < len; i++) {
+            if(nums[i]==0){
+                swap(nums,i,insert_0);
+                insert_0++;
+                i--;
+            }else if(nums[i]==2){
+                swap(nums,i,insert_2);
+                insert_2--;
+                i--;
+            }
+        }
     }
 }

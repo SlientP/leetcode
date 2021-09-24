@@ -25,4 +25,15 @@ public class Q9 {
         }
         return false;
     }
+    public boolean V2isPalindrome(int x) {
+        //负数肯定不行；
+        //个位为0的肯定不行
+        if(x<0||(x%10==0&&x!=0)) return false;
+        int res=0;
+        while (x>res){
+            res=res*10+x%10;
+            x=x/10;
+        }
+        return x==res/10||x==res;
+    }
 }
