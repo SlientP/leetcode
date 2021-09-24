@@ -1,5 +1,4 @@
-leetcode/target
-target
+
 !.mvn/wrapper/maven-wrapper.jar
 
 ### STS ###
@@ -25,4 +24,4 @@ target
 /nbdist/
 /.nb-gradle/
 cache/tcbase.configv6.cache
-
+target
