@@ -33,4 +33,5 @@ public class Q66 {
         digits[0] = 1;
         return digits;
     }
+    
 }
