@@ -5,7 +5,7 @@ import com.Struct.*;
 //需要使用O（Log(n)）
 public class Q148 {
     public ListNode sortList(ListNode head) {
-
+        return new ListNode();
     }
 
     private ListNode sort(ListNode start,ListNode end){
@@ -31,6 +31,7 @@ public class Q148 {
             return l1;
         }else{
             l2.next=merge(l1, l2.next);
+            return l2;
         }
         
     }
