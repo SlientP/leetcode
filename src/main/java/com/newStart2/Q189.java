@@ -4,18 +4,18 @@ public class Q189 {
     public static void main(String[] args) {
         Q189 test=new Q189();
         int[] nums=new int[]{1,2,3,4,5,6};
-        test.rotateV2(nums,4);
+        test.rotate(nums,2);
     }
+    
     public void rotate(int[] nums, int k) {
         if(k==0) return;
         int len=nums.length;
-        if(len%k==0){
-            for (int i = 0; i < len/k; i++) {
-                doit(nums,i,3,len);
-            }
-        }else{
-            doit(nums,0,3,len);
+        k=k%len;
+        int count = gcd(k, len);
+        for (int i = 0; i < count ; i++) {
+            doit(nums,i,k,len);
         }
+        
 
     }
 
@@ -25,9 +25,14 @@ public class Q189 {
             int temp=nums[L];
             nums[L]=nums[R];
             nums[R]=temp;
-            R=(R+3)%len;
+            R=(R+k)%len;
         }
     }
+
+    // for(int i=0;i<len;i++){
+    //     System.out.print(nums[i]);
+    // }
+    // System.out.println("***********");
 
     //遍历a圈 访问了b个元素 an=bk 要是a最小 那么 就为n、k的最小公倍数【lcm(n,k)】
     //那么需要遍历的次数为n/([lcm(n,k)]/k)=nk/[lcm(n,k)]即n，k的最大公约数
@@ -53,6 +58,6 @@ public class Q189 {
         return y > 0 ? gcd(y, x % y) : x;
     }
 
-
+    
 
 }

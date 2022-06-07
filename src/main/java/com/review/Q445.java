@@ -19,7 +19,6 @@ public class Q445 {
         }
         int carry=0;
         Stack<Integer> s3=new Stack<>();
-       
         while(!s1.isEmpty()||!s2.isEmpty()||carry!=0){
             int a=s1.isEmpty()?0:s1.pop();
             int b=s2.isEmpty()?0:s2.pop();

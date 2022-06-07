@@ -3,6 +3,7 @@ package com.review;
 import java.util.*;
 
 public class Q207 {
+    HashSet<Integer> set;
     private List<List<Integer>> edges;
     private int[] visited;
     private boolean vaild=true;
@@ -12,9 +13,10 @@ public class Q207 {
             edges.add(new ArrayList<>());
         }
         visited=new int[numCourses];
-        //need focus
         for (int[] p : prerequisites) {
-            edges.get(p[1]).add(p[0]);
+            edges.get(p[0]).add(p[1]);
+            //顺序颠倒也可以，因为只需要判断是否存在环即可
+            //edges.get(p[1]).add(p[0]);
         }
         for (int i = 0; i < numCourses; i++) {
             if(visited[i]==0){
@@ -48,6 +50,7 @@ public class Q207 {
         }
         //学习p[1]之前需要学习p[0]
         for (int[] p : prerequisites) {
+            //这边也是一样 顺序颠倒也可以 同样只需要判断是否存在环
             edges.get(p[1]).add(p[0]);
             ++indeg[p[0]];
         }
@@ -70,3 +73,5 @@ public class Q207 {
         return visited==numCourses;
     }
 }
+
+
